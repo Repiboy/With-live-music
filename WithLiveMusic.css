@@ -113,7 +113,6 @@
   left: 7px;
 } 
 #user-lists .header .button.room.selected {
- border-radius: 15px;
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
  box-shadow: 0 0 15px #89BE6C !important;	
 }
@@ -176,7 +175,7 @@
 /* chat */
 
 #chat-input {
- border-radius: 20px;
+ border-radius: 30px;
 }
 #chat .user-action {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
