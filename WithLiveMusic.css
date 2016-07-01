@@ -2,8 +2,8 @@
 
 /* import */
 
-@import url(""
-@import url(""
+@import url("https://rawgit.com/Repiboy/With-live-music/master/WithLiveMusicChat.css");
+@import url("");
 
 /* Custom Icon */
 
@@ -375,8 +375,4 @@
 .icon-chat-dj,.message.from-residentdj > .icon,.emote.from-residentdj > .icon,.mention.from-residentdj > .icon {
  background-image: url('https://vgy.me/JJQ5FG.png') !important;
  background-position: 0 0;
-}    
- 
- 
- 
- 
+}
