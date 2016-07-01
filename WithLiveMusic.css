@@ -212,7 +212,7 @@
 /* room-name */
 
 #room-name  span:hover {
- text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #FF3558, 0 0 70px #FF3558, 0 0 80px #FF3558, 0 0 100px #FF3558;
+ background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
 }
 #room-name .bar-value  {
  display: inline-block;
@@ -229,7 +229,7 @@
  -o-text-overflow: clip;
  text-overflow: clip;
  white-space: pre;
- text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #FF3558, 0 0 70px #FF3558, 0 0 80px #FF3558, 0 0 100px #FF3558;
+ background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
  -webkit-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
  -moz-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
  -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
