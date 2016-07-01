@@ -123,6 +123,15 @@
   top: 7px;
   left: 8px;
 }
+#user-inventory .history .list .row .item {
+ background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
+ box-shadow: 0 0 15px #89BE6C !important;
+}
+#user-inventory .history .legend .meta .col, #user-inventory .history .list .row .meta .col,
+#user-inventory .history .list .row .item {
+ background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
+ box-shadow: 0 0 15px #89BE6C !important;
+}
 
 /* rcs-progress */
 
