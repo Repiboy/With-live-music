@@ -1,0 +1,44 @@
+{
+  "room": "S hudbou žijeme CZ/SK",
+  "author": "Repiboy",
+  "icon": null,
+  "css": "https://rawgit.com/Repiboy/Hudba/master/Hudba.css",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot": true,
+    "allowAutojoin": true,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": true,
+    "forceSmartVote": false
+},
+  "ccc": {
+    "admin": "#42A5DC",
+    "ambassador": "#89BE6C",
+    "host": "#FF3558",
+    "cohost": "#FF3558",
+    "manager": "#0191FF" ,
+    "bouncer": "#01e1FF" ,
+    "rdj": "#89BE6C",
+    "subscriber": "#BEC53F",
+    "silversubscriber": "#A1AFB3",
+    "friend": "#BE6CA1",
+    "user": null
+  },
+  "images": {
+    "background": "https://vgy.me/W8iRVN.jpg",
+    "playback": "https://vgy.me/5rZ7m5.png",
+    "admin": "https://vgy.me/aXnGcY.png",
+    "ambassador": "https://vgy.me/xNHRfa.png",
+    "host": "https://vgy.me/w9925h.png",
+    "cohost": "https://vgy.me/w9925h.png",
+    "manager": "https://vgy.me/qBcaBP.png",
+    "bouncer": "https://vgy.me/aqq3YY.png",
+    "rdj": "https://vgy.me/JJQ5FG.png",
+    "subscriber": null,
+    "silversubscriber": "https://vgy.me/qZDKQW.png"
+  },
+  "emotes": {
+  }
+}
