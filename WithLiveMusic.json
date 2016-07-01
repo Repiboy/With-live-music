@@ -2,7 +2,7 @@
   "room": "S hudbou žijeme CZ/SK",
   "author": "Repiboy",
   "icon": null,
-  "css": "https://rawgit.com/Repiboy/Hudba/master/Hudba.css",
+  "css": "https://rawgit.com/Repiboy/With-live-music/master/WithLiveMusic.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot": true,
@@ -19,7 +19,7 @@
     "host": "#FF3558",
     "cohost": "#FF3558",
     "manager": "#0191FF" ,
-    "bouncer": "#01e1FF" ,
+    "bouncer": "#01E1FF" ,
     "rdj": "#89BE6C",
     "subscriber": "#BEC53F",
     "silversubscriber": "#A1AFB3",
