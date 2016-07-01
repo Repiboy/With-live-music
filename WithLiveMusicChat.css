@@ -220,3 +220,14 @@
  box-shadow: 0 0 15px #89BE6C !important;
 }
 
+/* history-button */
+
+#history-button {
+ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
+}
+
+/* rs-skip-button */
+
+#rs-skip-button {
+ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
+}
