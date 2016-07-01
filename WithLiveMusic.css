@@ -56,26 +56,6 @@
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
  box-shadow: 0 0 15px #89BE6C !important;
 }
-.media-list.history .score .positive {
- background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
- font-weight: bold;
-}
-.media-list.history .score .grabs span {
- background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
- font-weight: bold;
-}
-.media-list.history .score .negative {
- background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
- font-weight: bold;
-}
-.media-list.history .score .negative {
- background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
- font-weight: bold;
-}
 
 /* user-list */
 
