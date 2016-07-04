@@ -1,7 +1,7 @@
 {
   "room": "S hudbou žijeme CZ/SK",
   "author": "Repiboy",
-  "icon": null,
+  "icon": "https://vgy.me/ew08Oq.png",
   "css": "https://rawgit.com/Repiboy/With-live-music/master/WithLiveMusic.css",
   "rules": {
     "allowAutorespond": true,
