@@ -20,6 +20,7 @@
 }
 #room-bar .icon-room { 
  background-image: url('https://vgy.me/ew08Oq.png') !important; 
+ width: 75px !important;
 }
 
 /* EXP */
