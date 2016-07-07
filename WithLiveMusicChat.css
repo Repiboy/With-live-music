@@ -52,11 +52,9 @@
 #dj-button .left {
  border-radius: 30px 30px 30px 30px;
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 #dj-button.is-leave .left {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 
 /* media */
@@ -68,15 +66,12 @@
 }
 .media-list .row.now-playing .meta, .media-list .row.selected .meta {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;	
 }
 .media-list .row.selected {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;	
 }
 #media-panel .header .button {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;	
 }
 
 /* footer */
@@ -108,7 +103,6 @@
 
 #app-menu .button {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 } 
 
 /* user */
@@ -126,27 +120,21 @@
 }
 #user-menu .avatar { 
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 } 
 #user-menu .item.selected { 
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 .user-content .tab-menu button {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 #user-friends .list .row .buttons button {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 #user-menu .item.notify .count {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 #user-friends .tab-menu.has-requests button .count {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;	
 }
 #user-rollover {
  background: linear-gradient(to top, rgba(0, 0, 0, 0.25) 0px, rgba(0, 0, 0, 0.75) 0%);
@@ -171,56 +159,45 @@
 
 .dropdown dt { 
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 
 /* room-settings */
 
 #room-settings-menu .item.selected {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 #room-settings .general-settings .option button.off {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 #room-settings .general-settings .option button.on {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 
 /* friends-butoon */
 
 #friends-button .request-count {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }	
 
 /* playlist */
 
 #playlist-menu .menu .row.selected {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;	
 }
 #playlist-button {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;	
- background: linear-gradient(to top, rgba(0, 0, 0, 0.25) 0px, rgba(0, 0, 0, 0.75) 100%);
 }
 #playlist-create:hover {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 #playlist-import:hover {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;	
 }
 
 /* tab-menu */
 
 .tab-menu button {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 
 /* history-button */
