@@ -27,7 +27,6 @@
 
 #footer-user .info .meta div.bar {
  background: #555d70;
- border-radius: 2px 2pc;
 }
 #footer-user .info .pp {
  position: absolute;
@@ -35,15 +34,12 @@
  left: 4px;
 }
 .experience .xp .bar {
- border-radius: 2px 2pc;
 }
 #footer-user .info .bar .progress {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;	
 }
 .experience .xp .bar .progress {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;	
 }
 
 /* media */
@@ -51,41 +47,32 @@
 .media-list .row.now-playing {
  height: 55px;
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 .media-list .row.now-playing .actions {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 
 /* user-list */
 
 #user-lists .header .button.staff.selected {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
  border-bottom: 1px;
 }
-#user-inventory .avatars .grid .cell.selected .top,
-.user-content .grid .cell:hover>.top {
+#user-inventory .avatars .grid .cell.selected .top, .user-content .grid .cell:hover>.top {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 #user-inventory .badges .grid .cell.selected {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
  cursor: pointer;
 }
 #user-lists .header .button.room i, #user-lists .header .button.staff i {
   top: 8px;
-  left: 7px;
+  left: 8px;
 } 
 #user-lists .header .button.room.selected {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;	
 }
-#user-lists .header .button.bans.selected, 
-#user-lists .header .button.ignored.selected, 
-#user-lists .header .button.mutes.selected {
+#user-lists .header .button.bans.selected, #user-lists .header .button.ignored.selected, #user-lists .header .button.mutes.selected {
   border-bottom: 0px solid #ac76ff;
   background: linear-gradient(to bottom,#D00000 0,#4D0000 100%);
 }
@@ -129,14 +116,12 @@
 
 #rcs-progress-container .bar {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 
 /* focused */
 
 .focused {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 
 /* chat */
@@ -144,11 +129,9 @@
 #chat-input {
  border-radius: 30px;
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 #chat .user-action {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 
 /* playlist */
@@ -161,10 +144,8 @@
 
 /* tab-menu */
 
-.tab-menu button.selected,
-#user-menu .item.selected {
+.tab-menu button.selected, #user-menu .item.selected {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
  cursor: default;
 }
 
@@ -191,18 +172,13 @@
 .dialog-frame .button.submit,
 #dj-button .left {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
-.dialog.destructive .button.submit,
-#dj-button.is-leave .left, 
-#dj-button.is-quit .left {
+.dialog.destructive .button.submit, #dj-button.is-leave .left, #dj-button.is-quit .left {
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 .dialog-frame .button.submit.purchase {
  color: #eee;
  background: linear-gradient(to bottom,rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
- box-shadow: 0 0 15px #89BE6C !important;
 }
 
 /* dj-button */
