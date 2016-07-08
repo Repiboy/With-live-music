@@ -8,9 +8,9 @@ div[data-cid^="3057259-"] .badge-box i {
  height:32px !important;
 }  
 
-/* Co-Host */
+/* Co-Hosts */
 
-/* DJ_Pony_xD_(Britvajs) */
+/* GAME_TIME_ZA_2T_NA_WOW_Z */
 
 div[data-cid^="-"] .badge-box i {
  background: url('') !important;
@@ -26,9 +26,59 @@ div[data-cid^="-"] .badge-box i {
  height:32px !important;
 } 
 
-/* Manager */
+/* Managers */
 
 /* Daník <3 */
+
+div[data-cid^="-"] .badge-box i {
+ background: url('') !important;
+ width:32px !important;
+ height:32px !important;
+} 
+
+/* MoryX */
+
+div[data-cid^="-6590763"] .badge-box i {
+ background: url('https://vgy.me/1U2AFI.png') !important;
+ width:32px !important;
+ height:32px !important;
+}
+
+/* Repiboy */
+
+div[data-cid^="13444919-"] .badge-box i {
+ background: url('https://vgy.me/eim1BX.png') !important;
+ width:32px !important;
+ height:32px !important;
+}  
+ 
+/* Vole Nestresuj */
+
+div[data-cid^="-1109962"] .badge-box i {
+ background: url('https://vgy.me/SURqqc.png') !important;
+ width:32px !important;
+ height:32px !important;
+}
+
+/* Bouncers */
+
+/* ^Strajkricek^ */
+
+div[data-cid^="-"] .badge-box i {
+ background: url('') !important;
+ width:32px !important;
+ height:32px !important;
+} 
+
+/* _Yuki_Death_ */
+
+div[data-cid^="-"] .badge-box i {
+ background: url('') !important;
+ width:32px !important;
+ height:32px !important;
+} 
+
+/* AB radio (ine kafe :3) */
 
 div[data-cid^="-"] .badge-box i {
  background: url('') !important;
@@ -42,7 +92,7 @@ div[data-cid^="-"] .badge-box i {
  background: url('') !important;
  width:32px !important;
  height:32px !important;
-}
+} 
 
 /* Melinda_Life */
 
@@ -50,13 +100,32 @@ div[data-cid^="-"] .badge-box i {
  background: url('') !important;
  width:32px !important;
  height:32px !important;
-}
+} 
 
-/* Repiboy */
+/* RDJS */
 
-div[data-cid^="13444919-"] .badge-box i {
- background: url('https://vgy.me/t5tNP0.png') !important;
+/* marekjenej */
+
+div[data-cid^="-"] .badge-box i {
+ background: url('') !important;
  width:32px !important;
  height:32px !important;
-}  
- 
+} 
+
+/* TOMKOCZ */
+
+div[data-cid^="-"] .badge-box i {
+ background: url('') !important;
+ width:32px !important;
+ height:32px !important;
+} 
+
+/* Users */
+
+/* sBiMsTkH35 */
+
+div[data-cid^="-4548827"] .badge-box i {
+ background: url('https://vgy.me/LgmYR4.png') !important;
+ width:32px !important;
+ height:32px !important;
+} 
