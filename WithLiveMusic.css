@@ -110,6 +110,9 @@
   top: 7px;
   left: 8px;
 }
+#user-rollover .actions .giftsub span {
+ color: #BEC53F !important;	
+}
 
 /* rcs-progress */
 
