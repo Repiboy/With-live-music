@@ -328,38 +328,38 @@
 
 /* Badges */
 
-div[data-cid^="-"] .badge-box i {
- background: url('') !important;
- width:32px !important;
- height:32px !important;
+/* pacík :3(CZ:SK) */
+#chat [data-cid^="-"] .bdg {
+  background: url('') !important;
+  background-position: 0px 0px;
 } 
-div[data-cid^="-"] .badge-box i {
- background: url('') !important;
- width:32px !important;
- height:32px !important;
-} 
-div[data-cid^="-"] .badge-box i {
- background: url('') !important;
- width:32px !important;
- height:32px !important;
-} 
-div[data-cid^="-"] .badge-box i {
- background: url('') !important;
- width:32px !important;
- height:32px !important;
-} 
-div[data-cid^="-6590763"] .badge-box i {
- background: url('https://vgy.me/1U2AFI.png') !important;
- width:32px !important;
- height:32px !important;
-} 
-div[data-cid^="-13444919"] .badge-box i {
- background: url('https://vgy.me/pbz5UB.png') !important;
- width:32px !important;
- height:32px !important;
-} 
-div[data-cid^="-1109962"] .badge-box i {
- background: url('https://vgy.me/SURqqc.png') !important;
- width:32px !important;
- height:32px !important;
-} 
+/* GAME_TIME_ZA_2T_NA_WOW_Z */
+#chat [data-cid^="-"] .bdg {
+  background: url('') !important;
+  background-position: 0px 0px;
+}
+/* verda8 */
+#chat [data-cid^="-"] .bdg {
+  background: url('') !important;
+  background-position: 0px 0px;
+}
+/* Daník <3 */
+#chat [data-cid^="-"] .bdg {
+  background: url('') !important;
+  background-position: 0px 0px;
+}
+/* MoryX */
+#chat [data-cid^="6590763-"] .bdg {
+  background: url('https://vgy.me/1U2AFI.png') !important;
+  background-position: 0px 0px;
+}
+/* Repiboy */
+#chat [data-cid^="13444919-"] .bdg {
+  background: url('https://vgy.me/pbz5UB.png') !important;
+  background-position: 0px 0px;
+}
+/* SHŽ Bot */
+#chat [data-cid^="1109962-"] .bdg {
+  background: url('https://vgy.me/SURqqc.png') !important;
+  background-position: 0px 0px;
+}
