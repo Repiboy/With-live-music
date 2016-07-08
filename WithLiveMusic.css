@@ -220,6 +220,31 @@
  left: 89px !important;
 } 
 
+/* action */
+
+.action.giftsub:hover {
+	box-shadow: inset 0 0 30px #BEC53F !important;
+	background:rgba(0,0,0,0.8) !important
+}
+.action.giftsub {
+	transition:0.3s;
+}
+.action.mention:hover, .action.friend:hover, .action.mod-dj:hover, .action.skip:hover {
+	box-shadow: inset 0 0 30px #0191FF !important;
+	background:rgba(0,0,0,0.8) !important
+}
+.action.mod-staff:hover {
+	box-shadow: inset 0 0 30px #FF3558 !important;
+	background:rgba(0,0,0,0.8) !important
+}
+.action.ignore:hover, .action.mod-mute:hover, .action.mod-ban:hover {
+	box-shadow: inset 0 0 30px #0191FF !important;
+	background:rgba(0,0,0,0.8) !important
+}
+.action.mention, .action.friend, .action.ignore, .action.mod-dj, .action.mod-staff, .action.mod-mute, .action.mod-ban, .action.skip {
+	transition:0.3s;
+}
+
 /* STAFF colors */
 
 .icon-chat-admin + span {
@@ -358,8 +383,70 @@
   background: url('https://vgy.me/pbz5UB.png') !important;
   background-position: 0px 0px;
 }
+/* Repiboy */
+.id-13444919 .meta .username:after {
+	content: "\A" url('https://vgy.me/RzhyWC.png') "Room Designer";
+	white-space: pre;
+	font-size: 11pt;
+	display: block;
+	margin-top: 59px;
+	color: #4aaee7;
+	font-weight: bold;
+	cursor: text;
+}
 /* SHŽ Bot */
 #chat [data-cid^="1109962-"] .bdg {
   background: url('https://vgy.me/SURqqc.png') !important;
   background-position: 0px 0px;
+}
+/* ^Strajkricek^ */
+#chat [data-cid^="-"] .bdg {
+  background: url('') !important;
+  background-position: 0px 0px;
+}
+/* _Yuki_Death_ */
+#chat [data-cid^="-"] .bdg {
+  background: url('') !important;
+  background-position: 0px 0px;
+}
+/* AB radio (ine kafe :3) */
+#chat [data-cid^="-"] .bdg {
+  background: url('') !important;
+  background-position: 0px 0px;
+}
+/* Garlic */
+#chat [data-cid^="-"] .bdg {
+  background: url('') !important;
+  background-position: 0px 0px;
+}
+/* Melinda_Life */
+#chat [data-cid^="-"] .bdg {
+  background: url('') !important;
+  background-position: 0px 0px;
+}
+/* Marekjenej */
+#chat [data-cid^="-"] .bdg {
+  background: url('') !important;
+  background-position: 0px 0px;
+}
+/* TOMKOCZ */
+#chat [data-cid^="-"] .bdg {
+  background: url('') !important;
+  background-position: 0px 0px;
+}
+/*sBiMsTkH35 */
+#chat [data-cid^="-4548827"] .bdg {
+  background: url('https://vgy.me/LgmYR4.png') !important;
+  background-position: 0px 0px;
+}
+/*sBiMsTkH35 */
+.id-4548827 .meta .username:after {
+	content: "\A" url('https://vgy.me/neZVEp.png') "loves Repiboy";
+	white-space: pre;
+	font-size: 11pt;
+	display: block;
+	margin-top: 59px;
+	font-weight: bold;
+	cursor: text;
+	color: #F70000 !important;
 }
