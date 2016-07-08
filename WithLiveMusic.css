@@ -22,11 +22,6 @@
  width: 75px !important;
 }
 
-/* header */
-.header-panel-button.selected {
- background-color:rgb(255, 53, 88);
-}	
-
 /* EXP */
 
 #footer-user .info .meta div.bar {
